@@ -22,7 +22,11 @@ Open the index.html file in your browser to view the Sign-In and Sign-Up pages.
 Customize the design or integrate the code into your application.
 
 # Preview
-Screenshots or a live demo link (if available).
+Screenshots or a live demo link.
+![image](https://github.com/user-attachments/assets/97cf1e8f-8305-4ca8-90a9-177b74ee18af)
+![image](https://github.com/user-attachments/assets/c6896c3b-1399-4832-b155-60b84844535e)
+
+
 
 # Contribution
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
